@@ -23,9 +23,9 @@ import numpy as np
 
 #Email Shit
 
-sender_email = "JippoGhonzho@gmail.com" #The sender email
-rec_email = "jayden.earea@gmail.com" #The receiver email
-password = ("Gh0nzh093") #The password to the sender email
+sender_email = "notarealemail@gmail.com" #The sender email
+rec_email = "arealemail@gmail.com" #The receiver email
+password = ("maybearealpassword") #The password to the sender email
 
 # Set messages under conditionals statements
 
