@@ -18,7 +18,7 @@ import numpy as np
 
 #msft = yf.Ticker("MSFT")
 #msft.info
-#msft.history(period="max")  JippoGhonzho@gmail.com
+#msft.history(period="max")  definetlymyemail@gmail.com
 
 
 #Email Shit
