@@ -1,1 +1,0 @@
-C:\Users\Jayde\anaconda3\Scripts\activate.bat C:\Users\Jayde\OneDrive\Documents\PythonAuto\2021Yfinance-Copy3.py
